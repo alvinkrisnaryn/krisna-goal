@@ -2,3 +2,5 @@ Krisna Goal
 - Belajar tentang membuat website (Full-Stack Developer)
 - Belajar tentang membuat tampilan website (UI/UX Designer)
 - Belajar tentang mengamankan website (Cycber Security)
+- Membangun website yang berguna untuk anak-anak sekolah 
+- Memperbaiki keamanan website pemerintah
