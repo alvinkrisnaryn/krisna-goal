@@ -1,0 +1,4 @@
+Krisna Goal
+- Belajar tentang membuat website (Full-Stack Developer)
+- Belajar tentang membuat tampilan website (UI/UX Designer)
+- Belajar tentang mengamankan website (Cycber Security)
